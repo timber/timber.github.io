@@ -1,0 +1,1 @@
+This repository exists to add a redirect from https://timber.github.io/ to https://timber.github.io/docs/v2/ using GitHub’s [organization site feature](https://docs.github.com/de/pages/getting-started-with-github-pages/creating-a-github-pages-site). 
